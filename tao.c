@@ -13,5 +13,12 @@ int main() {
     printf("Initial: %c\n\n\n", initial);
     printf("tututut\n");
 
+    /* 
+    sektioner af kommentarer virker på samme
+    måde so i java også 
+    det er næsten som om java har fået inspiraiton fra c 
+    der kan man se
+    */
+
     return 0;
 }
