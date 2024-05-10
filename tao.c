@@ -8,9 +8,10 @@ int main() {
     if (alder > 20) {
         printf("Alder er større end 20\n");
     }
-
+// jeg kan skrive en kommentar - det minder om java eller sådan 
     printf("Vægt: %f\n", vaegt);
-    printf("Initial: %c\n", initial);
+    printf("Initial: %c\n\n\n", initial);
+    printf("tututut\n");
 
     return 0;
 }
